@@ -5,7 +5,7 @@ public class Calculator {
     private double num1, num2; 
  
     // Methods for operations 
-    private double add(double a, double b) { 
+    private double add(double a, double b) {
         return a + b; 
     } 
  
